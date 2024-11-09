@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+# title: Welcome to my first Github page
+### This page tests out learnings from Github skills.
 ---
 
